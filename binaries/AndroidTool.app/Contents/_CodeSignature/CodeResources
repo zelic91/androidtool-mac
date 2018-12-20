@@ -6,137 +6,194 @@
 	<dict>
 		<key>Resources/ApkIcon.icns</key>
 		<data>
-		tBP7zdSwyVMZuQiLNN1vZAdvbTY=
+		svVlVq+QyTryVZphI8gziQ3Hggs=
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		jpFkx+I4Eeff8CPFaOw6YBF0FBo=
+		Z3qrRNitasGqETtjsmYP929Tjwk=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		9sQWIpH+ZMm8jGwxPMrbUoX/J0s=
+		ovaLj/XDspPjYCd+9oS6Va/vnxw=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TUuoNafQDJTE9b7tVVabSUF6K4c=
+			KP4cqu0lJG9tEK4Y2fSJGYO06bo=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/DevicePickerViewController.nib</key>
 		<data>
-		KIDdUbrwp5lvsmkTCpEeRIvT0uc=
+		wKHLm57o0Pn2RlJ91Wv86ploNkQ=
 		</data>
 		<key>Resources/DeviceViewController.nib</key>
 		<data>
-		xhRlcwPWPst4PhKM477FSQczj7c=
+		RgpGFaqfwkfoD6TasR4D5j6HMqs=
 		</data>
 		<key>Resources/MasterViewController.nib</key>
 		<data>
-		d9l2mg0FnS0ZwMWs1xWS+Hm9HYw=
+		WxO5nZ9J0am/2F7I92ah3DqNmno=
 		</data>
 		<key>Resources/PreferencesWindowController.nib</key>
 		<data>
-		tL1+DrxlNEAzLHGZArufSa8KWn8=
+		3G8kUjaO11CQYL4oDbc4wUkXv/k=
+		</data>
+		<key>Resources/RawOutputWindowController.nib</key>
+		<data>
+		Uq4m7t4nKvZYTNPdMx8Eww5rylc=
 		</data>
 		<key>Resources/Take Bugreport.sh</key>
 		<data>
 		it1wMqQYWS9Ggw/1YubJ+t3CU+w=
 		</data>
+		<key>Resources/aapt</key>
+		<data>
+		r8b8bkx10erDtfYoWL1S2ganYFo=
+		</data>
 		<key>Resources/adb</key>
 		<data>
-		bN2SGXhILOqKjc429WIz+0jUrKQ=
+		jnZgWUD+jBRXKXjhWd/gzhwFLQw=
 		</data>
 		<key>Resources/convertMovieFiletoGif.sh</key>
 		<data>
-		eng2Au5TGEr26UYoasp34ahw+Fs=
+		xgBCjfkXY8er0b7fDEMA7BMbBVg=
+		</data>
+		<key>Resources/exitDemoMode.sh</key>
+		<data>
+		r/PI2zn43sBJ9NVpzZF5S6BMIyQ=
+		</data>
+		<key>Resources/extractIconFromApk.sh</key>
+		<data>
+		UjmHv8r8Dd6QZBgJ4FsBK+wWKd8=
+		</data>
+		<key>Resources/fastboot</key>
+		<data>
+		hchrqhgiI31hdf3m+V3XZvnqEQc=
 		</data>
 		<key>Resources/ffmpeg</key>
 		<data>
-		WgtVNXfFfldTY+NO0sn3/i0weK8=
+		LXdRopPWIqsFDP428xTnbB8U2hE=
+		</data>
+		<key>Resources/getApkInfo.sh</key>
+		<data>
+		vEW6osqg/ETd2plhF9v9uptuJq8=
+		</data>
+		<key>Resources/getCurrentActivityForIdentifier.sh</key>
+		<data>
+		3syS1iz3RMuRo7t9BHP2WrkUzI8=
 		</data>
 		<key>Resources/getDetailsForSerial.sh</key>
 		<data>
-		a1z5zbeLLxIYw76xgwDnaItRByw=
+		aqM20zPZ8s+DoF8c7dRqEq5C/pU=
 		</data>
 		<key>Resources/getResolutionForSerial.sh</key>
 		<data>
-		6JSjd8vAj5eHddF4g7G53lUZRPI=
+		Qy/iB46LZ4++7lOExZFdSJcIvPE=
 		</data>
 		<key>Resources/getSerials.sh</key>
 		<data>
-		Cs/UIioE8VEVToEiijqkWSEIVz0=
+		7oU8iRynYaWBxO9VA1YYT74ITJs=
 		</data>
 		<key>Resources/idevicescreenshot</key>
 		<data>
-		MJxcVvhDNaq8zlWLXUgmJXeMWkU=
+		chVevNwby7ahhzzx/isbzHaTWJY=
 		</data>
 		<key>Resources/installApkOnDevice.sh</key>
 		<data>
-		t6wHwPTSH4+HUPrYJRROtQoPul8=
+		MLnZvmvbPjlMU3s5ZJ1q7DDALcM=
+		</data>
+		<key>Resources/installObbForSerial.sh</key>
+		<data>
+		YQIBUssFViAE1QitKAIB7Zf7NQk=
+		</data>
+		<key>Resources/installZip.sh</key>
+		<data>
+		4P0bNhiEOPP892uVqRivoZKhuzQ=
+		</data>
+		<key>Resources/launchActivity.sh</key>
+		<data>
+		CpviuQU8XUi2l5yC6G4Ku4l9xzk=
 		</data>
 		<key>Resources/libimobiledevice.4.dylib</key>
 		<data>
-		aVg6XSH66qOUKmGRoUA51VpDuEI=
+		RvbzkxnQpFeY5w2MssYf6nGMts8=
 		</data>
 		<key>Resources/libosxfuse_i32.2.dylib</key>
 		<data>
-		dK1G6i1/85SE5pA7tZZIjZrutD4=
+		DYTM45aTKAqVlzmqGNS10LbhjG8=
 		</data>
 		<key>Resources/libosxfuse_i64.2.dylib</key>
 		<data>
-		Ry+LWewzouKjLCfAjNWqsJFGtVE=
+		mCZVLYTBKhgsBoZGshZZnvmNafk=
 		</data>
 		<key>Resources/libplist.1.1.10.dylib</key>
 		<data>
-		fHOdbnkBR/3ovrkAcdk04Gvtio0=
+		sTDOoQTcfYCq693rMfYRSDPJQDY=
 		</data>
 		<key>Resources/libplist.2.dylib</key>
 		<data>
-		FyR8VVcQSPC96oswIT156/qY7eY=
+		bKdpIu0B1QlJsUwxdO2TLWm1Qr0=
 		</data>
 		<key>Resources/libusbmuxd.1.0.8.dylib</key>
 		<data>
-		061pPs2FU9R7fxAW0GcJyjpw8R8=
+		9R0FvrjlqrKYtY+54F0+LZFJhXQ=
 		</data>
 		<key>Resources/libusbmuxd.2.dylib</key>
 		<data>
-		vuiTdPGViPyRm77Gy3E4I9l/XBM=
+		mO4L1pd2NVdDVsGeulCQMDfoaCI=
 		</data>
 		<key>Resources/libxml2.2.dylib</key>
 		<data>
-		dADftWwSfqjSuCPbeBjadiEjxA8=
+		SCPYrqvSXPZOw7nfVuAlbJPWlJE=
 		</data>
 		<key>Resources/libzip.2.dylib</key>
 		<data>
-		3m90RAnERMAQeAclswl5aHIO/FI=
+		MIw0qC1GREZx9lp1CtvqWdu0kgg=
 		</data>
 		<key>Resources/postProcessMovieForSerial.sh</key>
 		<data>
-		fdDSoLt2vXLR1CH81gXKeGBUAvw=
+		BcAZMRLzKr3T23F05dTsEdjmo/M=
+		</data>
+		<key>Resources/setDemoModeOptions.sh</key>
+		<data>
+		7SJK0s80pBOe8Y4YnXiRpHxaTzs=
 		</data>
 		<key>Resources/startRecordingForSerial.sh</key>
 		<data>
-		wP/RJrS5BHkBQnuuIOztRXVDzsY=
+		lP1MHXV0aEv3jmDSw8gQLZhQQGU=
 		</data>
 		<key>Resources/takeScreenshotOfDeviceWithSerial.sh</key>
 		<data>
-		neBgFCuzoaR/406tL3O1HuPr+Ps=
+		bamA6M/B8erRmkXM5lX1xSiqRIo=
 		</data>
 		<key>Resources/takeScreenshotOfDeviceWithUUID.sh</key>
 		<data>
-		UA/XRf+eyxYlK75M6JqNSHLZwdk=
+		O+WxiNlzuWpNOSS/Qf7mKGwRsnE=
+		</data>
+		<key>Resources/uninstallPackageOnDevice.sh</key>
+		<data>
+		KW5YP8jyVse6JbBiD7nYr31zvzU=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/libswiftAVFoundation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cE8ueDGdC8e9urUaNn8hI+9Ynu4=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftAVFoundation" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
+		</dict>
 		<key>Frameworks/libswiftAppKit.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			LPVgi5H7lrqOkHsGAR4+4iRbZEI=
+			MzC8Z+8fv1FRuGS8vN3jghpxBsU=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftAppKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
@@ -145,7 +202,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			wxe60qNJIvhQ10BCVNtmvye98Po=
+			BiPdceITfyryqNAk6daamnP1qYs=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCore" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
@@ -154,25 +211,52 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			T0wmMC4+SXWUALarjpyW0g6I0Ow=
+			LfrJJaNwkq1IWvgWQLk0Pgt8PE8=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreAudio" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
+		</dict>
+		<key>Frameworks/libswiftCoreData.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			sSuKFsKd9WAFzibI8jVtV6U7wcM=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreData" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
 		</dict>
 		<key>Frameworks/libswiftCoreGraphics.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			N8zehFl/qXYzCF1t+9bxl1Xs0+Y=
+			tqy3dyt7l1i+ZsDb7XaxTbJ1k4k=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreGraphics" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			svEN609/tw1/NPVZ+w3vQProtvk=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreImage" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
+		</dict>
+		<key>Frameworks/libswiftCoreMedia.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9mTB8OHndESvZzNyyBsRT/Q8JL8=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreMedia" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
 		</dict>
 		<key>Frameworks/libswiftDarwin.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			agPkUL0Oou4qoTK4W0WQFvYcd4w=
+			XoCNtjKTdcADUVko8FcXM1V+tDA=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftDarwin" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
@@ -181,7 +265,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			CaVBlpB6hXJclb6XGp5hJpOnynU=
+			Tre++rpoqfp2jIeLBXaMpxjqvSY=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftDispatch" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
@@ -190,163 +274,493 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			BOYZ9CtV74dOHpDkmnFDKT1rtNI=
+			CuFxnRtMiq9n7tPwfsylBoDd5mw=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftFoundation" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
+		</dict>
+		<key>Frameworks/libswiftIOKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			CUdkJzxyKJvAOZ3Nm4EqNr42ggY=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftIOKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
 		</dict>
 		<key>Frameworks/libswiftObjectiveC.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			JBU3+qUCeasOZLrraZXHpYqGGUo=
+			yzKMFqvVCDpLBmDizoSpsc96NGs=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftObjectiveC" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
 		</dict>
-		<key>Frameworks/libswiftQuartzCore.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			pqpf62V37E/Yh15/qx4qmGqTggQ=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftQuartzCore" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
-		</dict>
-		<key>Frameworks/libswiftSecurity.dylib</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			dOvsEMdSauMHU05BrWkJFyO/8hk=
-			</data>
-			<key>requirement</key>
-			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftSecurity" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = UDGLB23X37)</string>
-		</dict>
 		<key>Resources/ApkIcon.icns</key>
-		<data>
-		tBP7zdSwyVMZuQiLNN1vZAdvbTY=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			svVlVq+QyTryVZphI8gziQ3Hggs=
+			</data>
+			<key>hash2</key>
+			<data>
+			ELYwYDga32XWBz1nCFXgHgT2p3bww2az1QIusSMpAoo=
+			</data>
+		</dict>
 		<key>Resources/AppIcon.icns</key>
-		<data>
-		jpFkx+I4Eeff8CPFaOw6YBF0FBo=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z3qrRNitasGqETtjsmYP929Tjwk=
+			</data>
+			<key>hash2</key>
+			<data>
+			aME8IUQrLE7DgaAV5pimeK4rmAepiP/ClpxJaFCfuSI=
+			</data>
+		</dict>
 		<key>Resources/Assets.car</key>
-		<data>
-		9sQWIpH+ZMm8jGwxPMrbUoX/J0s=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			ovaLj/XDspPjYCd+9oS6Va/vnxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			/uuPdo4ruZsbgfGViRK0hCrCAvBGh4H9qFY0xZdIh8I=
+			</data>
+		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TUuoNafQDJTE9b7tVVabSUF6K4c=
+			KP4cqu0lJG9tEK4Y2fSJGYO06bo=
+			</data>
+			<key>hash2</key>
+			<data>
+			+w+lh1UvZafbSul1Wfd8rwqanX0CyZOVgmKiDa9Iijw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Resources/DevicePickerViewController.nib</key>
-		<data>
-		KIDdUbrwp5lvsmkTCpEeRIvT0uc=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			wKHLm57o0Pn2RlJ91Wv86ploNkQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			En2pT6zTMRNMs7l4hDp2XTgLfJk4WRq99ZATneVDNGY=
+			</data>
+		</dict>
 		<key>Resources/DeviceViewController.nib</key>
-		<data>
-		xhRlcwPWPst4PhKM477FSQczj7c=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			RgpGFaqfwkfoD6TasR4D5j6HMqs=
+			</data>
+			<key>hash2</key>
+			<data>
+			O1mBA21cXw2g/xRe2HvVib0H3rs00RsZ95pGk5k006s=
+			</data>
+		</dict>
 		<key>Resources/MasterViewController.nib</key>
-		<data>
-		d9l2mg0FnS0ZwMWs1xWS+Hm9HYw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			WxO5nZ9J0am/2F7I92ah3DqNmno=
+			</data>
+			<key>hash2</key>
+			<data>
+			vQQceIiVlNw/7SvsBDLHDDxv02rwIndI4reHe0Vw52s=
+			</data>
+		</dict>
 		<key>Resources/PreferencesWindowController.nib</key>
-		<data>
-		tL1+DrxlNEAzLHGZArufSa8KWn8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			3G8kUjaO11CQYL4oDbc4wUkXv/k=
+			</data>
+			<key>hash2</key>
+			<data>
+			eTypEC21Bfe7wNR2CuNr6nAMYDOPrLzWJBqQVEZHIF8=
+			</data>
+		</dict>
+		<key>Resources/RawOutputWindowController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Uq4m7t4nKvZYTNPdMx8Eww5rylc=
+			</data>
+			<key>hash2</key>
+			<data>
+			JjjSdormm25TX6MWZgb2xiKcL+9AXOIrlAEmSxMZMx0=
+			</data>
+		</dict>
 		<key>Resources/Take Bugreport.sh</key>
-		<data>
-		it1wMqQYWS9Ggw/1YubJ+t3CU+w=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			it1wMqQYWS9Ggw/1YubJ+t3CU+w=
+			</data>
+			<key>hash2</key>
+			<data>
+			QWtPCZkXU898+t7/s+tNxHAeQww998rSnocspCilwR4=
+			</data>
+		</dict>
+		<key>Resources/aapt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r8b8bkx10erDtfYoWL1S2ganYFo=
+			</data>
+			<key>hash2</key>
+			<data>
+			1VR7uEtV34FX0I4wMviwLFLch6NM/G2hevPzAjFzPyU=
+			</data>
+		</dict>
 		<key>Resources/adb</key>
-		<data>
-		bN2SGXhILOqKjc429WIz+0jUrKQ=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			jnZgWUD+jBRXKXjhWd/gzhwFLQw=
+			</data>
+			<key>hash2</key>
+			<data>
+			W0r7+7DY/C6VggIn9m2lqQgnoe5nXVB8fwertgDry/I=
+			</data>
+		</dict>
 		<key>Resources/convertMovieFiletoGif.sh</key>
-		<data>
-		eng2Au5TGEr26UYoasp34ahw+Fs=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			xgBCjfkXY8er0b7fDEMA7BMbBVg=
+			</data>
+			<key>hash2</key>
+			<data>
+			zXhXH0Bw6HG0ytLrgdbYsgAU9t6kz1SSN7XgE4bV7ak=
+			</data>
+		</dict>
+		<key>Resources/exitDemoMode.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			r/PI2zn43sBJ9NVpzZF5S6BMIyQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Fg2Gz/QwkCEJ33SPWM/AF0jab1ZOlufej1FSaZxaBis=
+			</data>
+		</dict>
+		<key>Resources/extractIconFromApk.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UjmHv8r8Dd6QZBgJ4FsBK+wWKd8=
+			</data>
+			<key>hash2</key>
+			<data>
+			i9qoTnV0Ubnwfgc/gPH5eqCSnbS7HlolbTZ8yDtAI6o=
+			</data>
+		</dict>
+		<key>Resources/fastboot</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hchrqhgiI31hdf3m+V3XZvnqEQc=
+			</data>
+			<key>hash2</key>
+			<data>
+			2gri6G/7ePX7/67xWObCahpYE8fNyTaBR3acCf1wzfg=
+			</data>
+		</dict>
 		<key>Resources/ffmpeg</key>
-		<data>
-		WgtVNXfFfldTY+NO0sn3/i0weK8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			LXdRopPWIqsFDP428xTnbB8U2hE=
+			</data>
+			<key>hash2</key>
+			<data>
+			5U6DBgPwG9ZDAFIheJEfkC95GO+E/VPevLgpJ+QhkNs=
+			</data>
+		</dict>
+		<key>Resources/getApkInfo.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vEW6osqg/ETd2plhF9v9uptuJq8=
+			</data>
+			<key>hash2</key>
+			<data>
+			IX6R2qvaXNKAAOCZbyqO8HR835C9URhjAk8Izw7gyi8=
+			</data>
+		</dict>
+		<key>Resources/getCurrentActivityForIdentifier.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3syS1iz3RMuRo7t9BHP2WrkUzI8=
+			</data>
+			<key>hash2</key>
+			<data>
+			YtX7ksFlb0/ymrN8VBwosyR8TX9k8lgPAjbN2OE/GTk=
+			</data>
+		</dict>
 		<key>Resources/getDetailsForSerial.sh</key>
-		<data>
-		a1z5zbeLLxIYw76xgwDnaItRByw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			aqM20zPZ8s+DoF8c7dRqEq5C/pU=
+			</data>
+			<key>hash2</key>
+			<data>
+			jQmXeneryh3hAqY6JxFu3kZJJYwygIJaCpsIoaU3Sl0=
+			</data>
+		</dict>
 		<key>Resources/getResolutionForSerial.sh</key>
-		<data>
-		6JSjd8vAj5eHddF4g7G53lUZRPI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qy/iB46LZ4++7lOExZFdSJcIvPE=
+			</data>
+			<key>hash2</key>
+			<data>
+			7+UNdVuU8b/ES/89FsyILgZ45Br0oLpfZrP1brQNh5E=
+			</data>
+		</dict>
 		<key>Resources/getSerials.sh</key>
-		<data>
-		Cs/UIioE8VEVToEiijqkWSEIVz0=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			7oU8iRynYaWBxO9VA1YYT74ITJs=
+			</data>
+			<key>hash2</key>
+			<data>
+			kIytlReNb1XPnTUXtJIq6BxvMT/SPXQBjIMkQP7a6hQ=
+			</data>
+		</dict>
 		<key>Resources/idevicescreenshot</key>
-		<data>
-		MJxcVvhDNaq8zlWLXUgmJXeMWkU=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			chVevNwby7ahhzzx/isbzHaTWJY=
+			</data>
+			<key>hash2</key>
+			<data>
+			rZXrNv3W9KgT41TBHkl3bNrhIn9iis+eQi7Wz91pikw=
+			</data>
+		</dict>
 		<key>Resources/installApkOnDevice.sh</key>
-		<data>
-		t6wHwPTSH4+HUPrYJRROtQoPul8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			MLnZvmvbPjlMU3s5ZJ1q7DDALcM=
+			</data>
+			<key>hash2</key>
+			<data>
+			3uCy97diTg6mm6blawMC/M9/Xe9158FzKwFqfD0ng6o=
+			</data>
+		</dict>
+		<key>Resources/installObbForSerial.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YQIBUssFViAE1QitKAIB7Zf7NQk=
+			</data>
+			<key>hash2</key>
+			<data>
+			VkUH6lVYGdANOzob71njO6X23AL4fvgVSy1j88AsL30=
+			</data>
+		</dict>
+		<key>Resources/installZip.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4P0bNhiEOPP892uVqRivoZKhuzQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			BOwVaUlQrHcw/pPntnaiZ6y7cNPUBjsmpOL5TVPLZjY=
+			</data>
+		</dict>
+		<key>Resources/launchActivity.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CpviuQU8XUi2l5yC6G4Ku4l9xzk=
+			</data>
+			<key>hash2</key>
+			<data>
+			LCB3WMpWqB90oNCLvPHzewB0uRGDqWx0vPOjYYdBeL0=
+			</data>
+		</dict>
 		<key>Resources/libimobiledevice.4.dylib</key>
-		<data>
-		aVg6XSH66qOUKmGRoUA51VpDuEI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			RvbzkxnQpFeY5w2MssYf6nGMts8=
+			</data>
+			<key>hash2</key>
+			<data>
+			zW2wkQt+DSuPyxCwz5Skv23CW5CwGuDIqNS12efsUVk=
+			</data>
+		</dict>
 		<key>Resources/libosxfuse_i32.2.dylib</key>
-		<data>
-		dK1G6i1/85SE5pA7tZZIjZrutD4=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			DYTM45aTKAqVlzmqGNS10LbhjG8=
+			</data>
+			<key>hash2</key>
+			<data>
+			fPe88s2iHjc6rmlyfw3Oep5Io1UzEFeN/ks9lF4lguY=
+			</data>
+		</dict>
 		<key>Resources/libosxfuse_i64.2.dylib</key>
-		<data>
-		Ry+LWewzouKjLCfAjNWqsJFGtVE=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			mCZVLYTBKhgsBoZGshZZnvmNafk=
+			</data>
+			<key>hash2</key>
+			<data>
+			ELmwj+6V+fB7QjpysGNC0VtXHBM7vwKaTSeAa8xKkRE=
+			</data>
+		</dict>
 		<key>Resources/libplist.1.1.10.dylib</key>
-		<data>
-		fHOdbnkBR/3ovrkAcdk04Gvtio0=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			sTDOoQTcfYCq693rMfYRSDPJQDY=
+			</data>
+			<key>hash2</key>
+			<data>
+			x582kOyrQEYZfZbT3JTObqiuAcVFpsajQTil0MMVlXk=
+			</data>
+		</dict>
 		<key>Resources/libplist.2.dylib</key>
-		<data>
-		FyR8VVcQSPC96oswIT156/qY7eY=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			bKdpIu0B1QlJsUwxdO2TLWm1Qr0=
+			</data>
+			<key>hash2</key>
+			<data>
+			bNg9Gg3X3+i/6fq/Y8w5vkAvc3R5AqdZTrXnEo0OMR0=
+			</data>
+		</dict>
 		<key>Resources/libusbmuxd.1.0.8.dylib</key>
-		<data>
-		061pPs2FU9R7fxAW0GcJyjpw8R8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			9R0FvrjlqrKYtY+54F0+LZFJhXQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			wKnjbT8bmdO9b/RrcTKSd+w+paRY9Nb7WlzyF/oCyaA=
+			</data>
+		</dict>
 		<key>Resources/libusbmuxd.2.dylib</key>
-		<data>
-		vuiTdPGViPyRm77Gy3E4I9l/XBM=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			mO4L1pd2NVdDVsGeulCQMDfoaCI=
+			</data>
+			<key>hash2</key>
+			<data>
+			z5TEIixyy0Z4l4M13F5kFZRdMdz0TkvoogQn7/Fcghg=
+			</data>
+		</dict>
 		<key>Resources/libxml2.2.dylib</key>
-		<data>
-		dADftWwSfqjSuCPbeBjadiEjxA8=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			SCPYrqvSXPZOw7nfVuAlbJPWlJE=
+			</data>
+			<key>hash2</key>
+			<data>
+			V7yr0H3hoVS2Jt0JWUXdLtEFlOc63LGhlCvj4USwQ6k=
+			</data>
+		</dict>
 		<key>Resources/libzip.2.dylib</key>
-		<data>
-		3m90RAnERMAQeAclswl5aHIO/FI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			MIw0qC1GREZx9lp1CtvqWdu0kgg=
+			</data>
+			<key>hash2</key>
+			<data>
+			2c0Mm8z+uCsp9l+eD5tIBlxs7ljpDmdigo5ja6VqAjc=
+			</data>
+		</dict>
 		<key>Resources/postProcessMovieForSerial.sh</key>
-		<data>
-		fdDSoLt2vXLR1CH81gXKeGBUAvw=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			BcAZMRLzKr3T23F05dTsEdjmo/M=
+			</data>
+			<key>hash2</key>
+			<data>
+			iB7tP1/kbpRdUmYjtwv9/QQBF28YyKkDncXe45KSMbU=
+			</data>
+		</dict>
+		<key>Resources/setDemoModeOptions.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7SJK0s80pBOe8Y4YnXiRpHxaTzs=
+			</data>
+			<key>hash2</key>
+			<data>
+			jrRdVHvAOSQQRXsBI1tfGkhBdBfJXi0cek9gSNWDC68=
+			</data>
+		</dict>
 		<key>Resources/startRecordingForSerial.sh</key>
-		<data>
-		wP/RJrS5BHkBQnuuIOztRXVDzsY=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			lP1MHXV0aEv3jmDSw8gQLZhQQGU=
+			</data>
+			<key>hash2</key>
+			<data>
+			D3rU9Pqm0n02JqA/7/ZJtlGxC4j6XgGVSsGp+CBvb+8=
+			</data>
+		</dict>
 		<key>Resources/takeScreenshotOfDeviceWithSerial.sh</key>
-		<data>
-		neBgFCuzoaR/406tL3O1HuPr+Ps=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			bamA6M/B8erRmkXM5lX1xSiqRIo=
+			</data>
+			<key>hash2</key>
+			<data>
+			6GnIyqSuqeoQyGW0AUf4zBQc2v4Hs5favpAOc9H0fVg=
+			</data>
+		</dict>
 		<key>Resources/takeScreenshotOfDeviceWithUUID.sh</key>
-		<data>
-		UA/XRf+eyxYlK75M6JqNSHLZwdk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			O+WxiNlzuWpNOSS/Qf7mKGwRsnE=
+			</data>
+			<key>hash2</key>
+			<data>
+			DRy73B0BpmpdWak8MLj/yiZObkfynoacej4ckLrwvdM=
+			</data>
+		</dict>
+		<key>Resources/uninstallPackageOnDevice.sh</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KW5YP8jyVse6JbBiD7nYr31zvzU=
+			</data>
+			<key>hash2</key>
+			<data>
+			Nd13IGFyCqfacRSM5mpwJVzON0rVOMf5x4WKwlzwZEI=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
