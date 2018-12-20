@@ -54,18 +54,43 @@ then # -- Watch ---
     rm screencapture.raw
 
 else # -- Phone ---
-    echo 'copying from phone...'
-    "$adb" -s $serial pull /sdcard/capture.mp4
-    mv capture.mp4 $finalFileName.mp4
+    counter=1
+    while "$adb" -s $serial shell "[ -f /sdcard/capture_$counter.mp4 ]"; do
+      echo 'copying from phone...'
+      "$adb" -s $serial pull /sdcard/capture_$counter.mp4
+      echo 'cleaning up'
+      "$adb" -s $serial shell rm /sdcard/capture_$counter.mp4
+      (( counter++ ))
+    done
 
-    if [ "$generateGif" = true ] ; then
-    echo 'Generating gif...'
-    $thisdir/ffmpeg -i $finalFileName.mp4 $finalFileName.gif
-    fi
+    counter=1
+    $thisdir/ffmpeg -i capture_$counter.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts inter_$counter.ts
+    counter=2
+    files="concat:inter_1.ts"
+    while [ -f capture_$counter.mp4 ]; do
+      $thisdir/ffmpeg -i capture_$counter.mp4 -c copy -bsf:v h264_mp4toannexb -f mpegts inter_$counter.ts
+      files="$files|inter_$counter.ts"
+      rm capture_$counter.mp4
+      (( counter++ ))
+    done
 
-    echo 'cleaning up'
-    "$adb" -s $serial shell rm /sdcard/capture.mp4
+    echo "$files"
+
+    $thisdir/ffmpeg -i "$files" -c copy -bsf:a aac_adtstoasc output_$now.mp4
+
+    counter=1
+    while [ -f capture_$counter.mp4 ]; do
+      rm inter_$counter.ts
+      (( counter++ ))
+    done
+
+
+
+    # if [ "$generateGif" = true ] ; then
+    # echo 'Generating gif...'
+    # $thisdir/ffmpeg -i $finalFileName.mp4 $finalFileName.gif
+    # fi
 fi
 
 echo 'Opening file...'
-open $finalFileName.mp4
+open output_$now.mp4

@@ -15,6 +15,7 @@ bitrate=$5
 adb=$thisdir/adb
 
 chara=$($adb -s $serial shell getprop ro.build.characteristics)
+
 if [[ $chara == *"watch"* ]]
 then
     echo "Recording from watch..."
@@ -38,10 +39,15 @@ then
 else
     echo "Recording from phone..."
     orientation=$("$adb" -s $serial shell dumpsys input | grep 'SurfaceOrientation' | awk '{ print $2 }')
-    if [[ "${orientation//[$'\t\r\n ']}" != "0" ]]
-    then
-        "$adb" -s $serial shell screenrecord --bit-rate $bitrate --verbose --size $height"x"$width /sdcard/capture.mp4 # > $1/reclog.txt
-    else
-        "$adb" -s $serial shell screenrecord --bit-rate $bitrate --verbose --size $width"x"$height /sdcard/capture.mp4 # > $1/reclog.txt
-    fi
+
+    counter=1
+    while true; do
+      if [[ "${orientation//[$'\t\r\n ']}" != "0" ]]
+      then
+          "$adb" -s $serial shell screenrecord --bit-rate $bitrate --verbose --size $height"x"$width /sdcard/capture_$counter.mp4 # > $1/reclog.txt
+      else
+          "$adb" -s $serial shell screenrecord --bit-rate $bitrate --verbose --size $width"x"$height /sdcard/capture_$counter.mp4 # > $1/reclog.txt
+      fi
+      (( counter ++ ))
+    done
 fi
